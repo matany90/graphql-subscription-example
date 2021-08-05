@@ -1,0 +1,98 @@
+{
+  "user": {
+    "id": "jBWMVGjm50l6LGwepDoty",
+    "username": "frontendmaster"
+  },
+  "pet": [
+    {
+      "id": "1",
+      "createdAt": "dsdssdssd",
+      "name": "foo",
+      "type": "cat"
+    },
+    {
+      "id": "_g1Er0dE0UsLwlzzPwg8L",
+      "createdAt": 1628087341120,
+      "name": "halli",
+      "type": "dog"
+    },
+    {
+      "id": "FpSpVO0WahQ63mttx8BRq",
+      "createdAt": 1628087343265,
+      "name": "halli",
+      "type": "dog"
+    },
+    {
+      "id": "dItZ6dDTjaui0qBVxXxSK",
+      "createdAt": 1628087343920,
+      "name": "halli",
+      "type": "dog"
+    },
+    {
+      "id": "M-KHJVCw2V2f_TA6dotGg",
+      "createdAt": 1628149345063,
+      "name": "halli",
+      "type": "dog"
+    },
+    {
+      "id": "S4qFWCFbCvMQaeROLz2Va",
+      "createdAt": 1628153949040,
+      "name": "hii",
+      "type": "foo"
+    },
+    {
+      "id": "nIZ0IkJT0Q6MTOWpUvTiH",
+      "createdAt": 1628153956314,
+      "name": "hii",
+      "type": "foo"
+    },
+    {
+      "id": "YAlY7d5Prjz1T6_y7WrZN",
+      "createdAt": 1628154640734,
+      "name": "hii",
+      "type": "foo"
+    },
+    {
+      "id": "Om--ENphlF3CJEUlctzpK",
+      "createdAt": 1628154642853,
+      "name": "hii",
+      "type": "foo"
+    },
+    {
+      "id": "T0KD2mh4TbwK1DSVAC8AD",
+      "createdAt": 1628154650635,
+      "name": "hii",
+      "type": "foo"
+    },
+    {
+      "id": "TR2OUtynLkAu2XfE8VNMz",
+      "createdAt": 1628154890785,
+      "name": "hii",
+      "type": "foo"
+    },
+    {
+      "id": "6QPYEc53foroP-bvpn1ku",
+      "createdAt": 1628154929388,
+      "name": "hii",
+      "type": "foo"
+    },
+    {
+      "id": "bw01JN70gcr8XN_xkDUXX",
+      "createdAt": 1628154993519,
+      "name": "hii",
+      "type": "foo"
+    },
+    {
+      "id": "eoruzY3a794CL00K8kGbL",
+      "createdAt": 1628155005053,
+      "name": "hii",
+      "type": "foo"
+    },
+    {
+      "id": "ZvzkfQ8aqBRw7-Cawktie",
+      "createdAt": 1628155087589,
+      "name": "hii",
+      "type": "foo"
+    }
+  ]
+}
